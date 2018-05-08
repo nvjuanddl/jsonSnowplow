@@ -1,16 +1,1 @@
-{
-    "type": "object",
-    "title": "hello_world",
-    "description": "A very simple custom context",
-    "properties": {
-      "hello": {
-        "type": "string"
-      },
-      "hello_array": {
-        "type": "array",
-        "items": {
-          "type": "string"
-        }
-      }
-    }
-}
+{"type": "object", "title": "voucher_apply", "description": "Voucher applied", "properties": {"userId": {"type": "string"}, "timestamp": {"type": "timestamp"}, "deviceId": {"type": "string"}}}
