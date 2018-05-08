@@ -1,1 +1,13 @@
-{"type": "object", "title": "voucher_apply", "description": "Voucher applied", "properties": {"userId": {"type": "string"}, "timestamp": {"type": "timestamp"}, "deviceId": {"type": "string"}}}
+{
+    "type": "object",
+    "title": "voucher_apply",
+    "description": "Voucher applied",
+    "properties": {
+        "userId": {
+            "type": "string"
+        },
+        "deviceId": {
+            "type": "string"
+        }
+    }
+}
