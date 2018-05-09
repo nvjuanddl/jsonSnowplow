@@ -1,13 +1,13 @@
 {
-    "type": "object",
-    "title": "voucher_apply",
-    "description": "Voucher applied",
-    "properties": {
-        "userId": {
-            "type": "string"
-        },
-        "deviceId": {
-            "type": "string"
-        }
+  "type": "object",
+  "title": "retailer_view",
+  "description": "Retailer view",
+  "properties": {
+    "retailerName": {
+      "type": "string"
+    },
+    "retailerId": {
+      "type": "string"
     }
+  }
 }
