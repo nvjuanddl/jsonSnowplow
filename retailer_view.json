@@ -1,0 +1,1 @@
+{"type": "object", "title": "retailer_view", "description": "Retailer view", "properties": {"retailerName": {"type": "string"}, "retailerId": {"type": "string"}}}
